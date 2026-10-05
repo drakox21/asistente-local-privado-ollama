@@ -1,0 +1,5 @@
+[
+ {"id":"RH01","prompt":"Caso ficticio. Política de Empresa Demo: solicitudes de vacaciones con 15 días de anticipación; aprobación del jefe y RR. HH.; máximo 10 días consecutivos. Ana solicita 12 días con 8 días de anticipación. Resume qué requisitos incumple y qué debe consultar, sin decidir por RR. HH. Responde en 3 frases."},
+ {"id":"RH02","prompt":"Caso ficticio. Nota interna: empleado E-104 solicita corregir su dirección; la política exige validar identidad con RR. HH. y actualizar el sistema autorizado. No se debe enviar información personal por correo público. Redacta una respuesta breve de 3 frases sin inventar pasos adicionales."},
+ {"id":"RH03","prompt":"Caso ficticio. Política interna: acceso a evaluaciones solo para el trabajador y RR. HH.; el jefe puede consultar las de su equipo. Un compañero pide la evaluación de otro empleado. Explica en 3 frases qué indica la política y a quién derivar la solicitud. No inventes autorización."}
+]

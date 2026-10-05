@@ -1,0 +1,8 @@
+{
+  "sintaxis_python": "correcta",
+  "enlaces_documentales": "revisados; enlaces heredados de terceros excluidos de correcciones",
+  "copia_codigo_actual": "identica",
+  "prueba_offline": "pendiente",
+  "prueba_voz_extremo_a_extremo": "pendiente",
+  "sin_datos_reales": "casos sinteticos, no se exporto localStorage"
+}

@@ -1,0 +1,123 @@
+{
+  "fecha_utc": "2026-10-05T05:20:21.701273+00:00",
+  "alcance": "Ollama directo; no mide STT/TTS ni navegador; primera solicitud con estado previo no controlado",
+  "resultados": [
+    {
+      "caso": "RH01",
+      "repeticion": 1,
+      "modelo": "llama3.2:latest",
+      "ttft_s": 4.2768,
+      "total_s": 4.711,
+      "carga_s": 4.1296,
+      "entrada_tokens": 453,
+      "salida_tokens": 96,
+      "tokens_s": 222.84,
+      "fin": "stop",
+      "respuesta": "Ana incumple con la solicitud de 12 días de vacaciones, ya que el límite máximo es de 10 días consecutivos. También no cumple con la anticipación mínima de 15 días, ya que solo ha notificado 8 días. Ana debe consultar con su jefe y el departamento de Recursos Humanos (RR. HH.) para obtener su aprobación y cumplir con los requisitos de la política de vacaciones."
+    },
+    {
+      "caso": "RH02",
+      "repeticion": 1,
+      "modelo": "llama3.2:latest",
+      "ttft_s": 0.0413,
+      "total_s": 0.3874,
+      "carga_s": 0.0108,
+      "entrada_tokens": 438,
+      "salida_tokens": 77,
+      "tokens_s": 222.84,
+      "fin": "stop",
+      "respuesta": "Para corregir la dirección de E-104, es necesario que envíe sus RR.HH. y una copia de su documento de identidad. Esta información se utilizará para validar su identidad y actualizar su perfil en el sistema. El empleado E-104 deberá solicitar un correo electrónico privado para recibir la confirmación de su dirección actualizada."
+    },
+    {
+      "caso": "RH03",
+      "repeticion": 1,
+      "modelo": "llama3.2:latest",
+      "ttft_s": 0.0382,
+      "total_s": 0.5884,
+      "carga_s": 0.0101,
+      "entrada_tokens": 440,
+      "salida_tokens": 123,
+      "tokens_s": 223.73,
+      "fin": "stop",
+      "respuesta": "La política indica que las evaluaciones son privadas y solo accesibles para el trabajador y el responsable de su evaluación, que es el jefe. Si un empleado solicita la evaluación de otro, el jefe puede derivar la solicitud a la persona responsable de la política de evaluaciones internas, como el departamento de recursos humanos. La política de evaluaciones internas establece que las solicitudes de acceso a evaluaciones de otros empleados deben ser tratadas con discreción y se derivarán a la persona responsable de la política para su evaluación y aprobación."
+    },
+    {
+      "caso": "RH01",
+      "repeticion": 2,
+      "modelo": "llama3.2:latest",
+      "ttft_s": 0.0446,
+      "total_s": 0.4647,
+      "carga_s": 0.0126,
+      "entrada_tokens": 453,
+      "salida_tokens": 92,
+      "tokens_s": 219.06,
+      "fin": "stop",
+      "respuesta": "Ana incumple con la política de solicitud de vacaciones con 15 días de anticipación y con la aprobación del jefe y del departamento de RR.H.H. debe consultar el reglamento de vacaciones para conocer los requisitos específicos de su empresa y cómo proceder en su caso. También puede revisar el historial de vacaciones de su empleado o consultar con el departamento de RR.H.H. para obtener más información."
+    },
+    {
+      "caso": "RH02",
+      "repeticion": 2,
+      "modelo": "llama3.2:latest",
+      "ttft_s": 0.0391,
+      "total_s": 0.3593,
+      "carga_s": 0.0099,
+      "entrada_tokens": 438,
+      "salida_tokens": 71,
+      "tokens_s": 222.14,
+      "fin": "stop",
+      "respuesta": "Estimado E-104, para corregir su dirección, necesitamos verificar su identidad con sus números de registro y ruc. No enviaremos información personal por correo público, sino que la proporcionará directamente en el sistema autorizado. Una vez verificada su identidad, podremos actualizar su información de contacto."
+    },
+    {
+      "caso": "RH03",
+      "repeticion": 2,
+      "modelo": "llama3.2:latest",
+      "ttft_s": 0.0395,
+      "total_s": 0.4381,
+      "carga_s": 0.0102,
+      "entrada_tokens": 440,
+      "salida_tokens": 88,
+      "tokens_s": 221.03,
+      "fin": "stop",
+      "respuesta": "La política indica que las evaluaciones son privadas y solo están disponibles para el trabajador y sus representantes legales. El jefe puede consultar las evaluaciones de su equipo, pero no puede acceder a las de otros empleados. La solicitud de un compañero para acceder a la evaluación de otro empleado debe derivarse a la persona responsable de la política de evaluaciones, como el departamento de recursos humanos."
+    },
+    {
+      "caso": "RH01",
+      "repeticion": 3,
+      "modelo": "llama3.2:latest",
+      "ttft_s": 0.0417,
+      "total_s": 0.4057,
+      "carga_s": 0.011,
+      "entrada_tokens": 453,
+      "salida_tokens": 81,
+      "tokens_s": 222.8,
+      "fin": "stop",
+      "respuesta": "Ana incumple con la anticipación mínima de 15 días y el máximo de 10 días consecutivos. Debe consultar la política de vacaciones de la empresa y los requisitos específicos de su jefe y la RR.H.H. para obtener una respuesta precisa. También puede revisar su contrato laboral o la política de vacaciones de la empresa para obtener más información."
+    },
+    {
+      "caso": "RH02",
+      "repeticion": 3,
+      "modelo": "llama3.2:latest",
+      "ttft_s": 0.0388,
+      "total_s": 0.413,
+      "carga_s": 0.0101,
+      "entrada_tokens": 438,
+      "salida_tokens": 83,
+      "tokens_s": 222.12,
+      "fin": "stop",
+      "respuesta": "Para corregir la dirección de E-104, necesitamos verificar su identidad con sus RR. HH. para asegurarnos de que la información es precisa y actualizada. Luego, procederemos a actualizar el sistema autorizado con la nueva dirección, asegurándonos de cumplir con las políticas de protección de datos y no enviar información personal por correo público."
+    },
+    {
+      "caso": "RH03",
+      "repeticion": 3,
+      "modelo": "llama3.2:latest",
+      "ttft_s": 0.0386,
+      "total_s": 0.5267,
+      "carga_s": 0.0101,
+      "entrada_tokens": 440,
+      "salida_tokens": 108,
+      "tokens_s": 221.73,
+      "fin": "stop",
+      "respuesta": "La política indica que las evaluaciones son privadas y solo están disponibles para el trabajador y sus representantes legales, es decir, sus familiares o hermanos. El jefe puede consultar las evaluaciones de su equipo como parte de su función de supervisión y gestión, pero no puede acceder a las de otros empleados. Si un empleado solicita la evaluación de otro empleado, se le derivará a la persona responsable de la política de evaluaciones, que es el departamento de recursos humanos."
+    }
+  ]
+}

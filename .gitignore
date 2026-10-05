@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.venv/
+.models/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+!.env.example
+*.wav
+*.mp3
+*.mp4
+*.onnx
+*.onnx_data
+*.safetensors
+*.gguf

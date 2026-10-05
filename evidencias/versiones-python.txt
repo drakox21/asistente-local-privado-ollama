@@ -1,0 +1,10 @@
+fastapi==0.141.1
+uvicorn==0.53.0
+httpx==0.28.1
+numpy==1.26.4
+torch==2.6.0+cu126
+torchaudio==2.6.0+cu126
+kokoro==0.9.4
+transformers==5.2.0
+huggingface-hub==1.31.0
+misaki==0.9.4
