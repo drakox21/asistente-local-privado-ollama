@@ -1,8 +1,7 @@
 # Video de presentación
 
-**Estado:** pendiente de grabar por el autor.  
 **URL:** PENDIENTE_DE_AGREGAR  
-**Duración objetivo:** 15–18 minutos; máximo permitido 30 minutos.
+https://drive.google.com/file/d/1n1-T-UUpWl9qhXngpyXzvZbbgfHnRqVW/view?usp=sharing
 
 Al grabarlo, sustituir el marcador por un enlace visible para el profesor y actualizar README.md. Probar el enlace desde una sesión sin autenticar antes de entregar.
 
