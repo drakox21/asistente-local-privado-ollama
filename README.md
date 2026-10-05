@@ -2,7 +2,7 @@
 
 Proyecto final · BSG · Fundamentos de Arquitectura LLM · Opción 7
 
-**Autor:** Alberto Upson · **Entrega documental:** 5 de octubre de 2026
+**Autor:** Carlos Alberto Upson Galvez · **Entrega documental:** 4 de octubre de 2026
 
 Portal de conversación por texto y voz que ejecuta la inferencia en el equipo del usuario. Combina Ollama para responder, Voxtral WebGPU para transcribir y Kokoro para generar voz. Su propósito es explorar una alternativa local para información interna empresarial, sin depender de una API conversacional gestionada.
 
