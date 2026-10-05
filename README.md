@@ -19,7 +19,6 @@ Portal de conversación por texto y voz que ejecuta la inferencia en el equipo d
 3. [Resultados y análisis de costos](docs/RESULTADOS.md), con [CSV](evidencias/mediciones.csv) y [respuestas completas](evidencias/mediciones.json).
 4. [Seguridad y prueba sin internet](docs/SEGURIDAD_Y_OFFLINE.md).
 5. [Matriz de evaluación](docs/RUBRICA.md).
-6. [Guion de exposición](docs/GUION_PRESENTACION.md): qué decir y qué mostrar.
 
 ## Funcionalidades implementadas
 
@@ -63,7 +62,7 @@ chatterbox/              Dependencia heredada, no es la voz predeterminada
 scripts/                Medición y comprobaciones reproducibles
 datos/                  Casos ficticios
 evidencias/             Resultados obtenidos en el equipo real
-docs/                   Informe, manuales y guion
+docs/                   Informe y manuales
 ```
 
 Los pesos, entornos virtuales, conversaciones personales, credenciales y archivos de audio no se incluyen. Consultar [atribuciones](THIRD_PARTY_NOTICES.md).

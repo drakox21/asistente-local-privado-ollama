@@ -15,4 +15,4 @@ Al grabarlo, sustituir el marcador por un enlace visible para el profesor y actu
 - 11:00 Mediciones y costos.
 - 14:00 Limitaciones y conclusión.
 
-Son tiempos de planificación, no referencias a un video existente. Consultar GUION_PRESENTACION.md.
+Son tiempos de planificación, no referencias a un video existente.

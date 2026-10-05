@@ -6,7 +6,7 @@
 | Seguridad y arquitectura | 20 | Informe y auditoría estática | Parcial; aislamiento estricto y controles empresariales pendientes |
 | Local, costo y latencia | 25 | Nueve mediciones y cálculo reproducible | Local medido; API estimada; demo offline pendiente |
 | Documentación | 10 | Informe, instalación, limitaciones y fuentes | Preparada |
-| Video | 15 | VIDEO.md y guion | Pendiente de grabar y enlazar |
+| Video | 15 | VIDEO.md | Pendiente de grabar y enlazar |
 
 Esta tabla no asigna una nota ni afirma cumplir criterios que no fueron probados.
 
